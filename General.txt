@@ -1,3 +1,2 @@
-#Get list of all Azure regions
-https://learn.microsoft.com/en-us/azure/reliability/regions-list#azure-programmatic-region-names
-Get-AzLocation
+!#Azure Regions
+https://learn.microsoft.com/en-us/azure/reliability/regions-list#azure-regions-list-1

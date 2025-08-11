@@ -1,0 +1,13 @@
+Dynatrace Monitoring:
+	Azure Native Dynatrace Service (ANDS) --> SaaS solution
+	Available through Marketplace
+	Deployed in Subscription --> Resource Group --> Region
+	Shows up as single resource --> No Managed RG --> No dependent resources
+
+Dynatrace costs:
+	Sending traffic --> Sending to Marketplace Partners
+		https://azure.microsoft.com/en-us/pricing/details/monitor
+		Usually charged --> Not charged for Dynatrace
+	Sending traffic --> Network Egress
+		Depends on Region of deployment
+		<BP> Deploy in same region
