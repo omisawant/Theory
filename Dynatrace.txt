@@ -10,4 +10,4 @@ Dynatrace costs:
 		Usually charged --> Not charged for Dynatrace
 	Sending traffic --> Network Egress
 		Depends on Region of deployment
-		<BP> Deploy in same region
+		<BP> Deploy in same region to avoid costs
